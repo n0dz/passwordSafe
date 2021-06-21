@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addNewPass"
+        android:title="Add New" />
+    <item
+        android:id="@+id/exitMenu"
+        android:title="Exit" />
+</menu>
