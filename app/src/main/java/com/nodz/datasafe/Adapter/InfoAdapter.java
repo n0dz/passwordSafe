@@ -63,7 +63,7 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.customViewHold
                         .setPositiveButton("Copy username", R.drawable.ic_copy, new MaterialDialog.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int which) {
-                                ClipData clip = ClipData.newPlainText("Password", model.getPassword());
+                                ClipData clip = ClipData.newPlainText("Username", model.getUsername());
                                 clipboard.setPrimaryClip(clip);
                             }
                         })
