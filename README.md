@@ -1,5 +1,5 @@
 # passwordSafe
-Android App to Save Passwords and Username of websites.
+Android App to Save Passwords and Username of websites/apps.
 
 # ADDING DATA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INPUT FIELDS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CopyData
 
@@ -8,3 +8,8 @@ Android App to Save Passwords and Username of websites.
 ![dataSafeAppCopyData](https://user-images.githubusercontent.com/43600925/122805338-d3238f00-d27d-11eb-99c8-10d1628ed59b.gif)
 
 
+# Features
+- Adding Credentials .
+- Deleting a credential by onLongPress .
+- Copy Username and Password for use.
+- Splash Screen Checks for default applied lock type(PIN/Password/Fingerprint) in phone.
